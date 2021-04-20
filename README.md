@@ -1,2 +1,3 @@
-# CN_TP1
+# Computação Natural
+Trabalho prático nº1
  
